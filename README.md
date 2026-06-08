@@ -33,3 +33,4 @@ The goal of this project was to strengthen my understanding of CSS animations an
 
 🌱 What I Learned
 While building this project, I learned how transitions and transforms work together to create smooth animations and improve user experience. I also explored glow effects using CSS shadows and visual styling techniques.
+#live demo:- https://guptanidhi-tech.github.io/Glowing-Lights/
